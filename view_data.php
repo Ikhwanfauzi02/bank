@@ -7,7 +7,7 @@
     <title>Data Pelamar</title>
 </head>
 <body>
-    <h2>Data </h2>
+    <h2>Data Pelamar</h2>
     <a href="index.php">Menu Utama</a>
     <table>
         <tr>
