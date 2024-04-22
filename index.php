@@ -47,7 +47,7 @@
             <input class="mgr" type="submit" value="Submit">
         </form>
         <!-- mengubah tampilan tombol -->
-        <a class="button1" href="view_data.php">Lihat Data</a>
+        <a class="button" href="view_data.php">Lihat Data</a>
     </div>
 </body>
 </html>

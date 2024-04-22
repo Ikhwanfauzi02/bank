@@ -66,6 +66,7 @@
                 <!-- Penambahan form Pengalaman -->
                 <label for="pengalaman">Pengalaman (tahun) :</label>
                 <input type="text" id="pengalaman" name="pengalaman" value="<?php echo $pengalaman; ?>" readonly><br>
+                
                 <!-- mengubah tampilan tombol -->
                 <a class="button2" href="view_data.php">Kembali ke Data Pelamar</a>
                 <!-- Link download CV and foto -->

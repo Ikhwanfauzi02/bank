@@ -13,7 +13,7 @@
     <div class="container2">
     <h2>Data Pelamar</h2></br></br>
     <!-- mengubah tampilan tombol -->
-    <a class="button" href="index.php">Menu Utama</a>
+    <a class="button2" href="index.php">Menu Utama</a>
     <table>
         <tr>
             <th>ID</th>

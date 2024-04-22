@@ -19,8 +19,12 @@
         <input type="text" id="telepon" name="telepon" value="<?php echo $telepon; ?>"><br>
         <label for="pendidikan">Pendidikan:</label><br>
         <input type="text" id="pendidikan" name="pendidikan" value="<?php echo $pendidikan; ?>"><br>
+        <label for="universitas">Universitas:</label><br>
+        <input type="text" id="universitas" name="universitas" value="<?php echo $universitas; ?>" disabled><br>
         <label for="pengalaman">Pengalaman:</label><br>
         <textarea id="pengalaman" name="pengalaman"><?php echo $pengalaman; ?></textarea><br><br>
+        <label for="deskripsi">Deskripsikan Pengalaman Anda :</label><br>
+        <textarea id="deskripsi" name="deskripsi" disabled value="<?php echo $deskripsi; ?>"></textarea><br><br>
         <input type="submit" value="Update Data">
     </form>
 </body>
